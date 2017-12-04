@@ -1,5 +1,5 @@
 {
-  "name": "json-server",
+  "name": "json-server-test",
   "version": "1.0.0",
   "description": "simple json-server for heroku",
   "main": "server.js",
@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/muratzorer/json-server/issues"
   },
-  "homepage": "https://github.com/muratzorer/json-server#readme"
+  "homepage": "https://github.com/muratzorer/json-server#readme",
+  "dependencies": {
+    "json-server": "^0.12.1"
+  }
 }
